@@ -55,5 +55,59 @@ Construir un laboratorio personal para aprender Linux, Redes y Ciberseguridad.
 
 ✅ Creación de la máquina virtual
 
+---
+
+# Día 2 - Primeros comandos de Linux
+
+## Objetivo
+
+Aprender a utilizar la terminal de Linux y comprender cómo navegar entre directorios.
+
+## Comandos aprendidos
+
+### pwd
+
+Permite visualizar la ubicación actual dentro del sistema de archivos.
+
+### ls
+
+Permite listar los archivos y carpetas del directorio actual.
+
+### mkdir
+
+Permite crear nuevas carpetas o directorios.
+
+### cd
+
+Permite cambiar de directorio y navegar entre carpetas.
+
+## Práctica realizada
+
+- Abrí la terminal de Linux Mint.
+- Verifiqué mi ubicación utilizando el comando `pwd`.
+- Visualicé archivos y carpetas utilizando `ls`.
+- Creé directorios de prueba mediante `mkdir`.
+- Navegué entre carpetas utilizando `cd`.
+
+## Lo que aprendí
+
+Comprendí que Linux organiza la información mediante directorios y que la terminal permite administrar archivos y carpetas mediante comandos. También aprendí a crear directorios y desplazarme entre ellos utilizando comandos básicos.
+
+## Dificultades encontradas
+
+- Familiarizarme con el uso de la terminal.
+- Recordar la función de cada comando.
+
+## Próximos pasos
+
+- Aprender el comando `touch` para crear archivos.
+- Aprender el comando `cp` para copiar archivos.
+- Aprender el comando `mv` para mover archivos.
+- Aprender el comando `rm` para eliminar archivos.
+
+## Estado
+
+✅ Día 2 completado correctamente.
+
 ✅ Inicio de instalación
 `
